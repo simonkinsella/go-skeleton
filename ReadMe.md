@@ -13,3 +13,9 @@ Installing Go (the easy way)
 4. Open a new terminal
 5. Type `go version`
 6. If you see something like `go version go1.25.6 darwin/arm64`, you're done!
+
+
+A quick tour
+------------
+
+`/cmd` - folder for go applications
