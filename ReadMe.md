@@ -50,3 +50,5 @@ Installing the "Go for Visual Studio Code" extension is **Highly Recommended!** 
 A quick tour
 ------------
 
+* `/cmd` - folder for go applications
+* `/cmd/helloworld` - really simple application
